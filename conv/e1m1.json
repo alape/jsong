@@ -1,0 +1,11 @@
+{
+    "title": "E1M1: At Doom's Gate",
+    "tempo": 0.1,
+    "format": "JSONg-a",
+    "tones": ["DS3", "DS3", "DS4", "DS3", "DS3", "CS4", "DS3", "DS3", "B3", "DS3", "DS3", "A3", "P", "DS3", "AS3", "B3", "DS3", "DS3", "DS4", "DS3", "DS3", "CS4", "DS3", "DS3", "B3", "DS3",
+            "DS3", "P", "A3", "P", "P", "P", "DS3", "DS3", "DS4", "DS3", "DS3", "CS4", "DS3", "DS3", "B3", "DS3", "DS3", "A3", "DS3", "DS3", "AS3", "B3", "DS3", "DS3", "DS4", "DS3",
+            "DS3", "CS4", "DS3", "DS3", "B3", "DS3", "DS3", "A3", "P", "P", "P", "P", "P", "DS3", "DS4", "DS3", "DS3", "CS4", "DS3", "DS3", "B3", "DS3", "DS3", "A3", "DS3", "P",
+            "AS3", "B3", "DS3", "DS3", "P", "DS3", "DS3", "P", "DS3", "DS3", "B3", "DS3", "DS3", "A3", "P", "P", "P", "P", "DS3", "DS3", "P", "DS3", "DS3", "P", "DS3", "DS3",
+            "B3", "DS3", "DS3", "A3", "DS3", "DS3", "AS3", "B3", "DS3", "DS3", "DS4", "DS3", "DS3", "CS4", "DS3", "DS3", "F5", "DS5", "F5", "FS5", "D5", "FS5", "AS5", "FS5", "D5", "DS3", "DS3",
+            "P"]
+}

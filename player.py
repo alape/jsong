@@ -29,7 +29,7 @@ class Player:
         while True:
             print("\n")
             for i, track in enumerate(tracks):
-                print(f"[{i:2} {track[0]:14} -- {track[1]} ]")
+                print(f"[{i:2} {track[0]:14} -- {track[1]:40}]")
 
             chosen_track = ""
 
